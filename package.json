@@ -1,0 +1,19 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "cleanblog projesi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "yılmaz canpolat",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "prettier": "2.3.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
